@@ -71,3 +71,29 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Git - Convention
+
+| 작업 타입   | 작업내용                       |
+| ----------- | ------------------------------ |
+| ✨ update   | 해당 파일에 새로운 기능이 생김 |
+| 🎉 add      | 없던 파일을 생성함, 초기 세팅  |
+| 🤟 chore    | 자잘한 수정이나 빌드업데이트   |
+| 🐛 bugfix   | 버그 수정                      |
+| ♻️ refactor | 코드 리팩토링                  |
+| 🩹 fix      | 코드 수정                      |
+| 🚚 move     | 파일 옮김/정리                 |
+| 🔥 del      | 기능/파일을 삭제               |
+| 🍻 test     | 테스트 코드를 작성             |
+| 💄 style    | css                            |
+| 🙈 gitfix   | gitignore 수정                 |
+| 🔨script    | package.json 변경(npm 설치 등) |
+
+ex. 작업타입+/+숫자 : update/001
+
+- 브랜치 update/001
+- 커밋메세지 [update/001] 내용
+
+## Repacktoring
+
+https://teamsparta.notion.site/Node-js-5-58108ff91af44dc5bf77f46173fb1e95?p=1b0a6520b0cd499187fadd4f5e2ec475&pm=c
