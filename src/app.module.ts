@@ -28,3 +28,5 @@ import { ReviewModule } from './review/review.module';
   providers: [AppService],
 })
 export class AppModule {}
+
+// export { typeOrmModuleOptions };
