@@ -22,6 +22,38 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# 🔎 GUBU(구독을 부탁해)
+
+### 구독 정보를 관리해주는 서비스
+
+## 👨‍👨‍👦‍👦 프로젝트 제작 인원
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/jiyoon-na"><img src="https://avatars.githubusercontent.com/u/164995957?v=4" width="100px;" alt="나지윤"/><br /><sub><b> 나지윤 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/leegilhyeon"><img src="https://avatars.githubusercontent.com/u/164996803?v=4" width="100px;" alt="이길현"/><br /><sub><b> 이길현 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/benefrihw"><img src="https://avatars.githubusercontent.com/u/167044707?v=4" width="100px;" alt="이현우"/><br /><sub><b> 이현우 </b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+### Github Convention
+
+| 작업 타입   | 작업 내용                                |
+| ----------- | ---------------------------------------- |
+| ✨ Update   | 해당 파일에 새로운 기능이 생김           |
+| 🎉 Feat     | 없던 파일을 생성함, 초기 세팅, 기능 구현 |
+| 🐛 Bugfix   | 버그 수정                                |
+| ♻️ Refactor | 코드 리팩토링                            |
+| 🩹 Fix      | 코드 수정                                |
+| 🎉 add      | 없던 파일을 생성함, 초기 세팅            |
+| 🚚 move     | 파일 옮김/정리                           |
+| 🔥 del      | 기능/파일을 삭제수정                     |
+| 🍻 test     | 테스트 코드를 작성 세팅                  |
+| 🙈 gitfix   | gitignore 수정                           |
+| 🔨script    | package.json 변경(npm 설치 등)           |
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
